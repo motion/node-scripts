@@ -1,0 +1,9 @@
+// TODO remove .repoman.json from local and make this work
+// {
+//   "chunky": {
+//     "repo": "motion/chunky",
+//     "scripts": ["node"]
+//   },
+//   ...
+// }
+
